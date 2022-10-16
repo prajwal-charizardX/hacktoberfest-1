@@ -2397,3 +2397,8 @@
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
+
+#### Name: [DS prajwal Gowda](https://github.com/prajwal-charizardX)
+- Place: Bangalore, Karnataka, India
+- Bio: An enthusiatic learner of Artifical Intelligence and Machince Learning
+- GitHub: [prajwal-charizardX](https://github.com/prajwal-charizardX)
